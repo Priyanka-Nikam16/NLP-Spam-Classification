@@ -9,3 +9,4 @@ This system would:
 - Build a rule-based approach to make predictions on the new text
 - Build an interactive UI using Streamlit to make the predictions
 - Run the code: python -m src.main
+- Run streamlit app : streamlit run app/streamlit-webapp.py
